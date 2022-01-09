@@ -1,3 +1,4 @@
+
 # SENTIMENT_ANALYSIS_OF_TWITTER_DATA
 Sentiment Analysis is extremely useful for analyzing reviews, social media monitoring, 
 analyzing customer feedback in an effective way as the data is very huge it is difficult to analyze 
